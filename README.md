@@ -9,7 +9,7 @@
 ~~~
 创建域名 www.test.com
 根目录即项目目录
-默认首页 www.test.com/users/save/params
-路由模式 www.test.com/users/index
+默认首页 www.test.com
+路由模式 www.test.com/users/save/params
 测试CRUD www.test.com/users/index
 ~~~
